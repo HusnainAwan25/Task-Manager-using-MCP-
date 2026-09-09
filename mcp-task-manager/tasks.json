@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "description": "Harper Lee",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "title": "Pride and Prejudice",
+        "description": "Classic novel by Jane Austen",
+        "completed": false,
+        "priority": "high"
+    },
+    {
+        "id": 3,
+        "title": "The Hobbit",
+        "description": "J.R.R. Tolkien",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "title": "Raja Gidh",
+        "description": "Bano Qudsia",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "title": "Nuskha ha-e Wafa.",
+        "description": "Faiz Ahmad Faiz",
+        "completed": false
+    },
+    {
+        "id": 6,
+        "title": "Patras Kay Mazameen",
+        "description": "Patras Bokhari",
+        "completed": false,
+        "priority": "low"
+    },
+    {
+        "id": 7,
+        "title": "Peer-e-Kamil",
+        "description": "Umera Ahmed",
+        "completed": true
+    },
+    {
+        "id": 8,
+        "title": "Shayad by Jaun Eliya",
+        "description": "His first and most celebrated poetry collection, published in 1990 when he was nearly 60 years old.",
+        "completed": false
+    }
+]
